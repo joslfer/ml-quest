@@ -1,6 +1,6 @@
 # ml-quest
 
-Comienzo de Machine Learning.
+Comienzo de Machine Learning. Cuaderno para aprender.
 
 ## Descenso de Gradiente 
 
@@ -35,7 +35,7 @@ No se ha utilizado 'scikit-learn' para entrenar el modelo. Se implementa todo ma
 - Entrenamiento con descenso por gradiente.
 - Evaluación con la matriz de confusión, accuracy, precision, recall y F1-score.
 
-Resultados: 
+
 ## Resultados
 
 - Accuracy: **97.91 %**
