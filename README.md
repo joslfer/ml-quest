@@ -36,6 +36,9 @@ No se ha utilizado 'scikit-learn' para entrenar el modelo. Se implementa todo ma
 - Evaluación con la matriz de confusión, accuracy, precision, recall y F1-score.
 
 
+![Curva de coste](pulsars_htru2/coste_entrenamiento.png)
+
+
 ## Resultados
 
 - Accuracy: **97.91 %**
