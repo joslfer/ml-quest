@@ -22,6 +22,8 @@ Se emplea la función sigmoide, log-loss y el descenso de gradiente.
 
 Entrenamiento de un modelo de regresión logística **desde 0** para clasificar si una una señal de un radiotelescopio es un púlsar o no.
 
+![Fotografía de un Púslar (https://chandra.harvard.edu/photo/2013/vela/)](images/pulsar.jpg)
+
 🌌 Un pulsar es una estrella de neutrones que gira muy rápido en el universo emitiendo pulsos. Los datos son de HTRU2 (high time resolution universe)
 
 No se ha utilizado 'scikit-learn' para entrenar el modelo. Se implementa todo manualmente.
@@ -36,7 +38,7 @@ No se ha utilizado 'scikit-learn' para entrenar el modelo. Se implementa todo ma
 - Evaluación con la matriz de confusión, accuracy, precision, recall y F1-score.
 
 
-![Curva de coste](pulsars_htru2/coste_entrenamiento.png)
+![Curva de coste](images/coste_entrenamiento.png)
 
 
 ## Resultados
